@@ -1,3 +1,3 @@
-# Find a Safe Place to Sleep
+# Find-a-safe-place-to-sleep
 
-This project provides an API and frontend interface to help users find safe places to sleep, focusing on shelters and resources for those in need.
+This project aims to help users find safe places to sleep based on various criteria such as location, safety ratings, and user reviews.
