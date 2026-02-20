@@ -1,0 +1,23 @@
+.shelter-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.shelter-list-item {
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.map-container {
+    height: 400px;
+    width: 100%;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+.map-marker {
+    color: red;
+    font-weight: bold;
+}
